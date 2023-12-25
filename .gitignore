@@ -1,0 +1,17 @@
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.dylib
+*~
+*swp
+*swo
+*.gz
+*.zip
+*.bz2
+*.tgz
+*.tbz
+*.cpio
+*.Z
+*.tar
