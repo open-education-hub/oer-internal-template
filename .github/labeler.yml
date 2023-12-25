@@ -1,0 +1,39 @@
+topic/functions:
+  - chapters/functions/**/*
+
+topic/multivar-power:
+  - chapters/multivariate-to-power/**/*
+
+topic/numbers-indices:
+  - chapters/numbers-to-indices/**/*
+
+topic/vectors-matrix:
+  - chapters/vectors-matrix-ops/**/*
+
+area/reading:
+  - '**/reading/*'
+  - '**/reading/**/*'
+
+area/media:
+  - '**/media/*'
+  - '**/media/**/*'
+
+area/slides:
+  - '**/slides/*'
+  - '**/slides/**/*'
+
+area/guides:
+  - '**/guides/*'
+  - '**/guides/**/*'
+
+area/drills:
+  - '**/drills/*'
+  - '**/drills/**/*'
+
+area/projects:
+  - '**/projects/*'
+  - '**/projects/**/*'
+
+area/infra:
+  - 'scripts/**/*'
+  - '.github/**/*'
