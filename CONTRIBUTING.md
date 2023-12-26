@@ -1,10 +1,10 @@
-# Contributing to Internal Computing and Calculus for Advanced Statistics Resources
+# Contributing to TODO Resources
 
-These are recommendations when contributing to the contents of the internal `CCAS` (Computing and Calculus for Advanced Statistics) repository.
+These are recommendations when contributing to the contents of the internal repository for the TODO repository.
 They consider contributions to and support code (solutions) and other types of content (Markdown) made via Git.
 
 Note that this is an internal repository, for evaluation items (assignments, exam papers, quizzes) that are to be kept private.
-If you plan to contribute to actual public content (lectures, tutorials, demos, assignment statements, assignment skeletons), use the [public (OER) repository](https://github.com/open-education-hub/ccas).
+If you plan to contribute to actual public content (lectures, tutorials, demos, assignment statements, assignment skeletons), use the [public (OER) repository](https://github.com/open-education-hub/TODO).
 
 Although meant to be private, these resources adhere to the principles [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources):
 use them, update them, mix them, contribute back.
@@ -87,8 +87,7 @@ Signed-off-by: Your Name <your.email@example.com>
 Notice that the details above are the name and email that you configured earlier.
 
 Now the `git commit` command will open your default editor and ask you to write a commit message.
-Prefix each commit message title with the chapter it belongs to: `software-stack`, `data`, `compute`, `io`, `app-interact` and the component: `lecture` / `lab`.
-An example of a prefix is `compute/lab:`.
+Prefix each commit message name with the chapter and content type it belongs to, e.g. `TODO-chapter/reading`, `TODO-chapter/slides`, `TODO-chapter/drills`.
 Following the prefix, write a short and expressive title on the first line.
 Use commit messages with verbs at imperative mood: "Add README", "Update contents", "Introduce feature".
 
