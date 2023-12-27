@@ -1,14 +1,8 @@
-topic/functions:
-  - chapters/functions/**/*
+topic/template-chapter:
+  - chapters/template-chapter/**/*
 
-topic/multivar-power:
-  - chapters/multivariate-to-power/**/*
-
-topic/numbers-indices:
-  - chapters/numbers-to-indices/**/*
-
-topic/vectors-matrix:
-  - chapters/vectors-matrix-ops/**/*
+topic/another-chapter:
+  - chapters/another-chapter/**/*
 
 area/reading:
   - '**/reading/*'
@@ -35,5 +29,10 @@ area/projects:
   - '**/projects/**/*'
 
 area/infra:
+  - 'scripts/*'
   - 'scripts/**/*'
+  - '.github/*'
   - '.github/**/*'
+  - 'Dockerfile'
+  - 'Makefile'
+  - 'config.yaml'
